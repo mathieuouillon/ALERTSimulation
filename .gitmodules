@@ -1,3 +1,6 @@
 [submodule "alert-geometry"]
 	path = alert-geometry
 	url = https://github.com/mathieuouillon/clas12-offline-software/
+[submodule "gemc_source"]
+	path = gemc_source
+	url = https://github.com/mathieuouillon/source
