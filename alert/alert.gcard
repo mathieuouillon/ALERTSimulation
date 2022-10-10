@@ -69,7 +69,7 @@
 	
 	<option name="PHYSICS" value="FTFP_BERT + STD + Optical"/>
 
-	<option name="OUTPUT"   value="evio, alert_simulation_gemcViktoryia2.ev"/>
+	<option name="OUTPUT"   value="evio, alert_simulation.ev"/>
 
 	<!--  Will print message every 10 events -->
 	<option name="PRINT_EVENT"    value="100" />
