@@ -4,3 +4,6 @@
 [submodule "gemc_source"]
 	path = gemc_source
 	url = https://github.com/mathieuouillon/source
+[submodule "alert-kfdev"]
+	path = alert-kfdev
+	url = https://github.com/mathieuouillon/clas12-offline-software/
